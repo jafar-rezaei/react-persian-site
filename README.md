@@ -2,7 +2,7 @@
 
 > 🎉 React + Webpack boilerplate + Redux + helmet
 
-For my Final Year Project at Staffordshire University, I had a few demos I need to make in React to prove that my Web Audio Mixer idea was going to work so this repo sped things up by having a hot reloading React starter already set up!
+Sample react website 
 
 - React 16
 - React Router 4
